@@ -1,6 +1,6 @@
-# 🧠 LLM App using Gemma3 and Vector DB
+# 🧠 NLP Research
+This project focuses on developing an end-to-end NLP pipeline designed to process, analyze, and extract valuable insights from the research materials left behind by Dr. X
 
-This project demonstrates building an LLM-powered application using the `gemma3:4b-it-qat` model from Ollama. It includes modules for data extraction, chunking, and creating a vector database using Jupyter notebooks.
 
 ---
 
