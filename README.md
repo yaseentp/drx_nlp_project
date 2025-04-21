@@ -12,7 +12,7 @@ Make sure Python **3.12** is installed.
 
 ```bash
 git clone https://github.com/yaseentp/drx_nlp_project.git
-cd your-repo
+cd drx_nlp_project
 ```
 
 ### 2. Create a Virtual Environment
