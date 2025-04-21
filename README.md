@@ -1,4 +1,4 @@
-# 🧠 NLP Research
+# 🧠 The Enigmatic Research of Dr. X
 This project focuses on developing an end-to-end NLP pipeline designed to process, analyze, and extract valuable insights from the research materials left behind by Dr. X
 
 
