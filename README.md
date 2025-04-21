@@ -18,7 +18,7 @@ cd drx_nlp_project
 ### 2. Create a Virtual Environment
 
 ```bash
-python3.12 -m venv venv
+python -m venv venv
 ```
 
 ### 3. Activate the Environment
