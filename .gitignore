@@ -1,0 +1,4 @@
+venv
+development/
+output/
+data/chromadb/
