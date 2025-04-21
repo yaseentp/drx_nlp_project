@@ -11,7 +11,7 @@ Make sure Python **3.12** is installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/yaseentp/drx_nlp_project.git
 cd your-repo
 ```
 
