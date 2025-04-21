@@ -80,8 +80,4 @@ The project is modularized with the following notebooks:
 
 ---
 
-## 🧠 Future Improvements
 
-- [ ] Integrate LangChain for orchestration
-- [ ] Build a chatbot interface
-- [ ] Add document upload feature
